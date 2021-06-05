@@ -58,3 +58,5 @@ Manual annotation of the brain regions on brain slice images is a highly time-co
 <img width="950" alt="pipe_9" src="https://user-images.githubusercontent.com/45449025/120880690-c01a8900-c606-11eb-8b79-050bee6f9bd2.png">
 
 <img width="950" alt="pipe_10" src="https://user-images.githubusercontent.com/45449025/120880700-c9a3f100-c606-11eb-86a7-cb7ebd0cf758.png">
+
+##### Principal Investigstor of The Project : Linqing Feng(Ph.D), Korea Institute of Science and Technology
